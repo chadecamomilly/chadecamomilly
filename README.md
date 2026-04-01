@@ -17,7 +17,7 @@
 
 ## 🤖 Sobre mim
 
-Sou desenvolvedora com foco em **automação de processos** e **inteligência artificial aplicada a negócios**. Fundei a **Celine Tech**, agência especializada em sistemas, automação e IA para pequenas e médias empresas.
+Sou desenvolvedora com foco em **automação de processos** e **inteligência artificial aplicada a negócios**.
 
 Meu trabalho é pegar problemas reais, processos que consomem tempo, e transformar em sistemas que dão resultado!
 
@@ -61,15 +61,6 @@ Meu trabalho é pegar problemas reais, processos que consomem tempo, e transform
 | 📊 Dashboard Automatizado | 4h/semana compilando relatórios | Dados consolidados em tempo real | **+40% de tempo livre** |
 | 📋 Automação de Licitações | 8h/semana analisando editais | Sistema monitora portais 24/7 | **+65% de tempo livre** |
 | 📱 Gestão de Redes Sociais | Equipe criando posts manualmente | Agentes publicam automaticamente | **Presença constante** |
-
----
-
-## 🚀 Projetos em destaque
-
-### 🏢 Celine Tech — Site Institucional
-**[Celine Tech](https://www.celinetech.com.br)**
-Site da minha agência própria!
-Stack moderna, identidade visual própria e foco em conversão.
 
 ---
 
